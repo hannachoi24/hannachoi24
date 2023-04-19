@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <p align="center">
     <Strong>☁️Portfolio List☁️</Strong><br><br>
-    <a href=https://dearna.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-535D6C?style=flat-square&logo=Tistory&logoColor=white"/></a>
     <a href=https://www.notion.so/Why-80965b503513494fa3b534f0c3cc2e8c?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+    <a href=https://dearna.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-535D6C?style=flat-square&logo=Tistory&logoColor=white"/></a>   
 <br>   
 <br>
 <Strong>📧Email📧</Strong><br>hnc24@naver.com<br>
