@@ -23,10 +23,10 @@ Here are some ideas to get you started:
     <a href=https://dearna.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-535D6C?style=flat-square&logo=Tistory&logoColor=white"/></a>   
 <br>   
 <br>
-<Strong>📧Email📧</Strong><br>hnc24@naver.com<br>
+<!-- <Strong>📧Email📧</Strong><br>hnc24@naver.com<br> -->
 
 </p>
-<br>
+
 <p align="center">
 반갑습니다👐<br>
 백엔드 개발자 최한나입니다.<br>
